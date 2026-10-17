@@ -880,6 +880,36 @@
     ]
   },
   {
+    "name": "Archive",
+    "shortname": "file-explorer-archive",
+    "url": "https://lucide.dev/icons/archive",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/archive.svg"
+    ]
+  },
+  {
+    "name": "Archive Restore",
+    "shortname": "file-explorer-archive-restore",
+    "url": "https://lucide.dev/icons/archive-restore",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/archive-restore.svg"
+    ]
+  },
+  {
+    "name": "Archive X",
+    "shortname": "file-explorer-archive-x",
+    "url": "https://lucide.dev/icons/archive-x",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/archive-x.svg"
+    ]
+  },
+  {
     "name": "Area",
     "shortname": "carbon-area",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -1820,6 +1850,16 @@
     ]
   },
   {
+    "name": "Bookmark",
+    "shortname": "file-explorer-bookmark",
+    "url": "https://lucide.dev/icons/bookmark",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/bookmark.svg"
+    ]
+  },
+  {
     "name": "Bookmark Add",
     "shortname": "carbon-bookmark-add",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -1830,6 +1870,16 @@
     ]
   },
   {
+    "name": "Bookmark Check",
+    "shortname": "file-explorer-bookmark-check",
+    "url": "https://lucide.dev/icons/bookmark-check",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/bookmark-check.svg"
+    ]
+  },
+  {
     "name": "Bookmark Filled",
     "shortname": "carbon-bookmark-filled",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -1837,6 +1887,46 @@
     "source": "carbon",
     "files": [
       "carbon/bookmark-filled.svg"
+    ]
+  },
+  {
+    "name": "Bookmark Minus",
+    "shortname": "file-explorer-bookmark-minus",
+    "url": "https://lucide.dev/icons/bookmark-minus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/bookmark-minus.svg"
+    ]
+  },
+  {
+    "name": "Bookmark Off",
+    "shortname": "file-explorer-bookmark-off",
+    "url": "https://lucide.dev/icons/bookmark-off",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/bookmark-off.svg"
+    ]
+  },
+  {
+    "name": "Bookmark Plus",
+    "shortname": "file-explorer-bookmark-plus",
+    "url": "https://lucide.dev/icons/bookmark-plus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/bookmark-plus.svg"
+    ]
+  },
+  {
+    "name": "Bookmark X",
+    "shortname": "file-explorer-bookmark-x",
+    "url": "https://lucide.dev/icons/bookmark-x",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/bookmark-x.svg"
     ]
   },
   {
@@ -4370,6 +4460,126 @@
     ]
   },
   {
+    "name": "Clipboard",
+    "shortname": "file-explorer-clipboard",
+    "url": "https://lucide.dev/icons/clipboard",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Check",
+    "shortname": "file-explorer-clipboard-check",
+    "url": "https://lucide.dev/icons/clipboard-check",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-check.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Clock",
+    "shortname": "file-explorer-clipboard-clock",
+    "url": "https://lucide.dev/icons/clipboard-clock",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-clock.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Copy",
+    "shortname": "file-explorer-clipboard-copy",
+    "url": "https://lucide.dev/icons/clipboard-copy",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-copy.svg"
+    ]
+  },
+  {
+    "name": "Clipboard List",
+    "shortname": "file-explorer-clipboard-list",
+    "url": "https://lucide.dev/icons/clipboard-list",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-list.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Minus",
+    "shortname": "file-explorer-clipboard-minus",
+    "url": "https://lucide.dev/icons/clipboard-minus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-minus.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Paste",
+    "shortname": "file-explorer-clipboard-paste",
+    "url": "https://lucide.dev/icons/clipboard-paste",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-paste.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Pen",
+    "shortname": "file-explorer-clipboard-pen",
+    "url": "https://lucide.dev/icons/clipboard-pen",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-pen.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Pen Line",
+    "shortname": "file-explorer-clipboard-pen-line",
+    "url": "https://lucide.dev/icons/clipboard-pen-line",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-pen-line.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Plus",
+    "shortname": "file-explorer-clipboard-plus",
+    "url": "https://lucide.dev/icons/clipboard-plus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-plus.svg"
+    ]
+  },
+  {
+    "name": "Clipboard Type",
+    "shortname": "file-explorer-clipboard-type",
+    "url": "https://lucide.dev/icons/clipboard-type",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-type.svg"
+    ]
+  },
+  {
+    "name": "Clipboard X",
+    "shortname": "file-explorer-clipboard-x",
+    "url": "https://lucide.dev/icons/clipboard-x",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/clipboard-x.svg"
+    ]
+  },
+  {
     "name": "Close",
     "shortname": "carbon-close",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4450,6 +4660,26 @@
     ]
   },
   {
+    "name": "Cloud",
+    "shortname": "file-explorer-cloud",
+    "url": "https://lucide.dev/icons/cloud",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud.svg"
+    ]
+  },
+  {
+    "name": "Cloud Alert",
+    "shortname": "file-explorer-cloud-alert",
+    "url": "https://lucide.dev/icons/cloud-alert",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-alert.svg"
+    ]
+  },
+  {
     "name": "Cloud Alerting",
     "shortname": "carbon-cloud-alerting",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4480,6 +4710,16 @@
     ]
   },
   {
+    "name": "Cloud Backup",
+    "shortname": "file-explorer-cloud-backup",
+    "url": "https://lucide.dev/icons/cloud-backup",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-backup.svg"
+    ]
+  },
+  {
     "name": "Cloud Ceiling",
     "shortname": "carbon-cloud-ceiling",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4487,6 +4727,26 @@
     "source": "carbon",
     "files": [
       "carbon/cloud-ceiling.svg"
+    ]
+  },
+  {
+    "name": "Cloud Check",
+    "shortname": "file-explorer-cloud-check",
+    "url": "https://lucide.dev/icons/cloud-check",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-check.svg"
+    ]
+  },
+  {
+    "name": "Cloud Cog",
+    "shortname": "file-explorer-cloud-cog",
+    "url": "https://lucide.dev/icons/cloud-cog",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-cog.svg"
     ]
   },
   {
@@ -4507,6 +4767,16 @@
     "source": "carbon",
     "files": [
       "carbon/cloud-download.svg"
+    ]
+  },
+  {
+    "name": "Cloud Download",
+    "shortname": "file-explorer-cloud-download",
+    "url": "https://lucide.dev/icons/cloud-download",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-download.svg"
     ]
   },
   {
@@ -4557,6 +4827,16 @@
     "source": "carbon",
     "files": [
       "carbon/cloud-monitoring.svg"
+    ]
+  },
+  {
+    "name": "Cloud Off",
+    "shortname": "file-explorer-cloud-off",
+    "url": "https://lucide.dev/icons/cloud-off",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-off.svg"
     ]
   },
   {
@@ -4640,6 +4920,16 @@
     ]
   },
   {
+    "name": "Cloud Sync",
+    "shortname": "file-explorer-cloud-sync",
+    "url": "https://lucide.dev/icons/cloud-sync",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-sync.svg"
+    ]
+  },
+  {
     "name": "Cloud Upload",
     "shortname": "carbon-cloud-upload",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4647,6 +4937,16 @@
     "source": "carbon",
     "files": [
       "carbon/cloud-upload.svg"
+    ]
+  },
+  {
+    "name": "Cloud Upload",
+    "shortname": "file-explorer-cloud-upload",
+    "url": "https://lucide.dev/icons/cloud-upload",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/cloud-upload.svg"
     ]
   },
   {
@@ -5307,6 +5607,16 @@
     "source": "carbon",
     "files": [
       "carbon/copy.svg"
+    ]
+  },
+  {
+    "name": "Copy",
+    "shortname": "file-explorer-copy",
+    "url": "https://lucide.dev/icons/copy",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/copy.svg"
     ]
   },
   {
@@ -6267,6 +6577,16 @@
     "source": "carbon",
     "files": [
       "carbon/data-volume-alt.svg"
+    ]
+  },
+  {
+    "name": "Database",
+    "shortname": "file-explorer-database",
+    "url": "https://lucide.dev/icons/database",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/database.svg"
     ]
   },
   {
@@ -7700,6 +8020,16 @@
     ]
   },
   {
+    "name": "Download",
+    "shortname": "file-explorer-download",
+    "url": "https://lucide.dev/icons/download",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/download.svg"
+    ]
+  },
+  {
     "name": "Downstream",
     "shortname": "carbon-downstream",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -8470,6 +8800,16 @@
     ]
   },
   {
+    "name": "External Link",
+    "shortname": "file-explorer-external-link",
+    "url": "https://lucide.dev/icons/external-link",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/external-link.svg"
+    ]
+  },
+  {
     "name": "Eyedropper",
     "shortname": "carbon-eyedropper",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -8810,6 +9150,76 @@
     ]
   },
   {
+    "name": "File",
+    "shortname": "file-explorer-file",
+    "url": "https://lucide.dev/icons/file",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file.svg"
+    ]
+  },
+  {
+    "name": "File Archive",
+    "shortname": "file-explorer-file-archive",
+    "url": "https://lucide.dev/icons/file-archive",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-archive.svg"
+    ]
+  },
+  {
+    "name": "File Axis 3d",
+    "shortname": "file-explorer-file-axis-3d",
+    "url": "https://lucide.dev/icons/file-axis-3d",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-axis-3d.svg"
+    ]
+  },
+  {
+    "name": "File Badge",
+    "shortname": "file-explorer-file-badge",
+    "url": "https://lucide.dev/icons/file-badge",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-badge.svg"
+    ]
+  },
+  {
+    "name": "File Box",
+    "shortname": "file-explorer-file-box",
+    "url": "https://lucide.dev/icons/file-box",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-box.svg"
+    ]
+  },
+  {
+    "name": "File Braces",
+    "shortname": "file-explorer-file-braces",
+    "url": "https://lucide.dev/icons/file-braces",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-braces.svg"
+    ]
+  },
+  {
+    "name": "File Braces Corner",
+    "shortname": "file-explorer-file-braces-corner",
+    "url": "https://lucide.dev/icons/file-braces-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-braces-corner.svg"
+    ]
+  },
+  {
     "name": "File Change",
     "shortname": "carbon-file-change",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -8817,6 +9227,106 @@
     "source": "carbon",
     "files": [
       "carbon/file-change.svg"
+    ]
+  },
+  {
+    "name": "File Chart Column",
+    "shortname": "file-explorer-file-chart-column",
+    "url": "https://lucide.dev/icons/file-chart-column",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-chart-column.svg"
+    ]
+  },
+  {
+    "name": "File Chart Column Increasing",
+    "shortname": "file-explorer-file-chart-column-increasing",
+    "url": "https://lucide.dev/icons/file-chart-column-increasing",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-chart-column-increasing.svg"
+    ]
+  },
+  {
+    "name": "File Chart Line",
+    "shortname": "file-explorer-file-chart-line",
+    "url": "https://lucide.dev/icons/file-chart-line",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-chart-line.svg"
+    ]
+  },
+  {
+    "name": "File Chart Pie",
+    "shortname": "file-explorer-file-chart-pie",
+    "url": "https://lucide.dev/icons/file-chart-pie",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-chart-pie.svg"
+    ]
+  },
+  {
+    "name": "File Check",
+    "shortname": "file-explorer-file-check",
+    "url": "https://lucide.dev/icons/file-check",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-check.svg"
+    ]
+  },
+  {
+    "name": "File Check Corner",
+    "shortname": "file-explorer-file-check-corner",
+    "url": "https://lucide.dev/icons/file-check-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-check-corner.svg"
+    ]
+  },
+  {
+    "name": "File Clock",
+    "shortname": "file-explorer-file-clock",
+    "url": "https://lucide.dev/icons/file-clock",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-clock.svg"
+    ]
+  },
+  {
+    "name": "File Code",
+    "shortname": "file-explorer-file-code",
+    "url": "https://lucide.dev/icons/file-code",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-code.svg"
+    ]
+  },
+  {
+    "name": "File Code Corner",
+    "shortname": "file-explorer-file-code-corner",
+    "url": "https://lucide.dev/icons/file-code-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-code-corner.svg"
+    ]
+  },
+  {
+    "name": "File Cog",
+    "shortname": "file-explorer-file-cog",
+    "url": "https://lucide.dev/icons/file-cog",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-cog.svg"
     ]
   },
   {
@@ -8830,6 +9340,276 @@
     ]
   },
   {
+    "name": "File Diff",
+    "shortname": "file-explorer-file-diff",
+    "url": "https://lucide.dev/icons/file-diff",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-diff.svg"
+    ]
+  },
+  {
+    "name": "File Digit",
+    "shortname": "file-explorer-file-digit",
+    "url": "https://lucide.dev/icons/file-digit",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-digit.svg"
+    ]
+  },
+  {
+    "name": "File Down",
+    "shortname": "file-explorer-file-down",
+    "url": "https://lucide.dev/icons/file-down",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-down.svg"
+    ]
+  },
+  {
+    "name": "File Exclamation Point",
+    "shortname": "file-explorer-file-exclamation-point",
+    "url": "https://lucide.dev/icons/file-exclamation-point",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-exclamation-point.svg"
+    ]
+  },
+  {
+    "name": "File Headphone",
+    "shortname": "file-explorer-file-headphone",
+    "url": "https://lucide.dev/icons/file-headphone",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-headphone.svg"
+    ]
+  },
+  {
+    "name": "File Heart",
+    "shortname": "file-explorer-file-heart",
+    "url": "https://lucide.dev/icons/file-heart",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-heart.svg"
+    ]
+  },
+  {
+    "name": "File Image",
+    "shortname": "file-explorer-file-image",
+    "url": "https://lucide.dev/icons/file-image",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-image.svg"
+    ]
+  },
+  {
+    "name": "File Input",
+    "shortname": "file-explorer-file-input",
+    "url": "https://lucide.dev/icons/file-input",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-input.svg"
+    ]
+  },
+  {
+    "name": "File Key",
+    "shortname": "file-explorer-file-key",
+    "url": "https://lucide.dev/icons/file-key",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-key.svg"
+    ]
+  },
+  {
+    "name": "File Lock",
+    "shortname": "file-explorer-file-lock",
+    "url": "https://lucide.dev/icons/file-lock",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-lock.svg"
+    ]
+  },
+  {
+    "name": "File Minus",
+    "shortname": "file-explorer-file-minus",
+    "url": "https://lucide.dev/icons/file-minus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-minus.svg"
+    ]
+  },
+  {
+    "name": "File Minus Corner",
+    "shortname": "file-explorer-file-minus-corner",
+    "url": "https://lucide.dev/icons/file-minus-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-minus-corner.svg"
+    ]
+  },
+  {
+    "name": "File Music",
+    "shortname": "file-explorer-file-music",
+    "url": "https://lucide.dev/icons/file-music",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-music.svg"
+    ]
+  },
+  {
+    "name": "File Output",
+    "shortname": "file-explorer-file-output",
+    "url": "https://lucide.dev/icons/file-output",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-output.svg"
+    ]
+  },
+  {
+    "name": "File Pen",
+    "shortname": "file-explorer-file-pen",
+    "url": "https://lucide.dev/icons/file-pen",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-pen.svg"
+    ]
+  },
+  {
+    "name": "File Pen Line",
+    "shortname": "file-explorer-file-pen-line",
+    "url": "https://lucide.dev/icons/file-pen-line",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-pen-line.svg"
+    ]
+  },
+  {
+    "name": "File Play",
+    "shortname": "file-explorer-file-play",
+    "url": "https://lucide.dev/icons/file-play",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-play.svg"
+    ]
+  },
+  {
+    "name": "File Plus",
+    "shortname": "file-explorer-file-plus",
+    "url": "https://lucide.dev/icons/file-plus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-plus.svg"
+    ]
+  },
+  {
+    "name": "File Plus Corner",
+    "shortname": "file-explorer-file-plus-corner",
+    "url": "https://lucide.dev/icons/file-plus-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-plus-corner.svg"
+    ]
+  },
+  {
+    "name": "File Question Mark",
+    "shortname": "file-explorer-file-question-mark",
+    "url": "https://lucide.dev/icons/file-question-mark",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-question-mark.svg"
+    ]
+  },
+  {
+    "name": "File Scan",
+    "shortname": "file-explorer-file-scan",
+    "url": "https://lucide.dev/icons/file-scan",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-scan.svg"
+    ]
+  },
+  {
+    "name": "File Search",
+    "shortname": "file-explorer-file-search",
+    "url": "https://lucide.dev/icons/file-search",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-search.svg"
+    ]
+  },
+  {
+    "name": "File Search Corner",
+    "shortname": "file-explorer-file-search-corner",
+    "url": "https://lucide.dev/icons/file-search-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-search-corner.svg"
+    ]
+  },
+  {
+    "name": "File Signal",
+    "shortname": "file-explorer-file-signal",
+    "url": "https://lucide.dev/icons/file-signal",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-signal.svg"
+    ]
+  },
+  {
+    "name": "File Sliders",
+    "shortname": "file-explorer-file-sliders",
+    "url": "https://lucide.dev/icons/file-sliders",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-sliders.svg"
+    ]
+  },
+  {
+    "name": "File Spreadsheet",
+    "shortname": "file-explorer-file-spreadsheet",
+    "url": "https://lucide.dev/icons/file-spreadsheet",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-spreadsheet.svg"
+    ]
+  },
+  {
+    "name": "File Stack",
+    "shortname": "file-explorer-file-stack",
+    "url": "https://lucide.dev/icons/file-stack",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-stack.svg"
+    ]
+  },
+  {
     "name": "File Storage",
     "shortname": "carbon-file-storage",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -8840,6 +9620,96 @@
     ]
   },
   {
+    "name": "File Symlink",
+    "shortname": "file-explorer-file-symlink",
+    "url": "https://lucide.dev/icons/file-symlink",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-symlink.svg"
+    ]
+  },
+  {
+    "name": "File Terminal",
+    "shortname": "file-explorer-file-terminal",
+    "url": "https://lucide.dev/icons/file-terminal",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-terminal.svg"
+    ]
+  },
+  {
+    "name": "File Text",
+    "shortname": "file-explorer-file-text",
+    "url": "https://lucide.dev/icons/file-text",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-text.svg"
+    ]
+  },
+  {
+    "name": "File Type",
+    "shortname": "file-explorer-file-type",
+    "url": "https://lucide.dev/icons/file-type",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-type.svg"
+    ]
+  },
+  {
+    "name": "File Type Corner",
+    "shortname": "file-explorer-file-type-corner",
+    "url": "https://lucide.dev/icons/file-type-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-type-corner.svg"
+    ]
+  },
+  {
+    "name": "File Up",
+    "shortname": "file-explorer-file-up",
+    "url": "https://lucide.dev/icons/file-up",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-up.svg"
+    ]
+  },
+  {
+    "name": "File User",
+    "shortname": "file-explorer-file-user",
+    "url": "https://lucide.dev/icons/file-user",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-user.svg"
+    ]
+  },
+  {
+    "name": "File Video Camera",
+    "shortname": "file-explorer-file-video-camera",
+    "url": "https://lucide.dev/icons/file-video-camera",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-video-camera.svg"
+    ]
+  },
+  {
+    "name": "File Volume",
+    "shortname": "file-explorer-file-volume",
+    "url": "https://lucide.dev/icons/file-volume",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-volume.svg"
+    ]
+  },
+  {
     "name": "File X",
     "shortname": "carbon-file-x",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -8847,6 +9717,36 @@
     "source": "carbon",
     "files": [
       "carbon/file-x.svg"
+    ]
+  },
+  {
+    "name": "File X",
+    "shortname": "file-explorer-file-x",
+    "url": "https://lucide.dev/icons/file-x",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-x.svg"
+    ]
+  },
+  {
+    "name": "File X Corner",
+    "shortname": "file-explorer-file-x-corner",
+    "url": "https://lucide.dev/icons/file-x-corner",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/file-x-corner.svg"
+    ]
+  },
+  {
+    "name": "Files",
+    "shortname": "file-explorer-files",
+    "url": "https://lucide.dev/icons/files",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/files.svg"
     ]
   },
   {
@@ -9260,6 +10160,16 @@
     ]
   },
   {
+    "name": "Folder",
+    "shortname": "file-explorer-folder",
+    "url": "https://lucide.dev/icons/folder",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder.svg"
+    ]
+  },
+  {
     "name": "Folder Add",
     "shortname": "carbon-folder-add",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -9267,6 +10177,76 @@
     "source": "carbon",
     "files": [
       "carbon/folder-add.svg"
+    ]
+  },
+  {
+    "name": "Folder Archive",
+    "shortname": "file-explorer-folder-archive",
+    "url": "https://lucide.dev/icons/folder-archive",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-archive.svg"
+    ]
+  },
+  {
+    "name": "Folder Bookmark",
+    "shortname": "file-explorer-folder-bookmark",
+    "url": "https://lucide.dev/icons/folder-bookmark",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-bookmark.svg"
+    ]
+  },
+  {
+    "name": "Folder Check",
+    "shortname": "file-explorer-folder-check",
+    "url": "https://lucide.dev/icons/folder-check",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-check.svg"
+    ]
+  },
+  {
+    "name": "Folder Clock",
+    "shortname": "file-explorer-folder-clock",
+    "url": "https://lucide.dev/icons/folder-clock",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-clock.svg"
+    ]
+  },
+  {
+    "name": "Folder Closed",
+    "shortname": "file-explorer-folder-closed",
+    "url": "https://lucide.dev/icons/folder-closed",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-closed.svg"
+    ]
+  },
+  {
+    "name": "Folder Code",
+    "shortname": "file-explorer-folder-code",
+    "url": "https://lucide.dev/icons/folder-code",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-code.svg"
+    ]
+  },
+  {
+    "name": "Folder Cog",
+    "shortname": "file-explorer-folder-cog",
+    "url": "https://lucide.dev/icons/folder-cog",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-cog.svg"
     ]
   },
   {
@@ -9287,6 +10267,106 @@
     "source": "carbon",
     "files": [
       "carbon/folder-details-reference.svg"
+    ]
+  },
+  {
+    "name": "Folder Dot",
+    "shortname": "file-explorer-folder-dot",
+    "url": "https://lucide.dev/icons/folder-dot",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-dot.svg"
+    ]
+  },
+  {
+    "name": "Folder Down",
+    "shortname": "file-explorer-folder-down",
+    "url": "https://lucide.dev/icons/folder-down",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-down.svg"
+    ]
+  },
+  {
+    "name": "Folder Git",
+    "shortname": "file-explorer-folder-git",
+    "url": "https://lucide.dev/icons/folder-git",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-git.svg"
+    ]
+  },
+  {
+    "name": "Folder Git 2",
+    "shortname": "file-explorer-folder-git-2",
+    "url": "https://lucide.dev/icons/folder-git-2",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-git-2.svg"
+    ]
+  },
+  {
+    "name": "Folder Heart",
+    "shortname": "file-explorer-folder-heart",
+    "url": "https://lucide.dev/icons/folder-heart",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-heart.svg"
+    ]
+  },
+  {
+    "name": "Folder Input",
+    "shortname": "file-explorer-folder-input",
+    "url": "https://lucide.dev/icons/folder-input",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-input.svg"
+    ]
+  },
+  {
+    "name": "Folder Kanban",
+    "shortname": "file-explorer-folder-kanban",
+    "url": "https://lucide.dev/icons/folder-kanban",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-kanban.svg"
+    ]
+  },
+  {
+    "name": "Folder Key",
+    "shortname": "file-explorer-folder-key",
+    "url": "https://lucide.dev/icons/folder-key",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-key.svg"
+    ]
+  },
+  {
+    "name": "Folder Lock",
+    "shortname": "file-explorer-folder-lock",
+    "url": "https://lucide.dev/icons/folder-lock",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-lock.svg"
+    ]
+  },
+  {
+    "name": "Folder Minus",
+    "shortname": "file-explorer-folder-minus",
+    "url": "https://lucide.dev/icons/folder-minus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-minus.svg"
     ]
   },
   {
@@ -9320,6 +10400,36 @@
     ]
   },
   {
+    "name": "Folder Open",
+    "shortname": "file-explorer-folder-open",
+    "url": "https://lucide.dev/icons/folder-open",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-open.svg"
+    ]
+  },
+  {
+    "name": "Folder Open Dot",
+    "shortname": "file-explorer-folder-open-dot",
+    "url": "https://lucide.dev/icons/folder-open-dot",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-open-dot.svg"
+    ]
+  },
+  {
+    "name": "Folder Output",
+    "shortname": "file-explorer-folder-output",
+    "url": "https://lucide.dev/icons/folder-output",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-output.svg"
+    ]
+  },
+  {
     "name": "Folder Parent",
     "shortname": "carbon-folder-parent",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -9327,6 +10437,56 @@
     "source": "carbon",
     "files": [
       "carbon/folder-parent.svg"
+    ]
+  },
+  {
+    "name": "Folder Pen",
+    "shortname": "file-explorer-folder-pen",
+    "url": "https://lucide.dev/icons/folder-pen",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-pen.svg"
+    ]
+  },
+  {
+    "name": "Folder Plus",
+    "shortname": "file-explorer-folder-plus",
+    "url": "https://lucide.dev/icons/folder-plus",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-plus.svg"
+    ]
+  },
+  {
+    "name": "Folder Root",
+    "shortname": "file-explorer-folder-root",
+    "url": "https://lucide.dev/icons/folder-root",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-root.svg"
+    ]
+  },
+  {
+    "name": "Folder Search",
+    "shortname": "file-explorer-folder-search",
+    "url": "https://lucide.dev/icons/folder-search",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-search.svg"
+    ]
+  },
+  {
+    "name": "Folder Search 2",
+    "shortname": "file-explorer-folder-search-2",
+    "url": "https://lucide.dev/icons/folder-search-2",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-search-2.svg"
     ]
   },
   {
@@ -9340,6 +10500,26 @@
     ]
   },
   {
+    "name": "Folder Symlink",
+    "shortname": "file-explorer-folder-symlink",
+    "url": "https://lucide.dev/icons/folder-symlink",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-symlink.svg"
+    ]
+  },
+  {
+    "name": "Folder Sync",
+    "shortname": "file-explorer-folder-sync",
+    "url": "https://lucide.dev/icons/folder-sync",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-sync.svg"
+    ]
+  },
+  {
     "name": "Folder Tree",
     "shortname": "carbon-folder-tree",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -9350,6 +10530,56 @@
     ]
   },
   {
+    "name": "Folder Tree",
+    "shortname": "file-explorer-folder-tree",
+    "url": "https://lucide.dev/icons/folder-tree",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-tree.svg"
+    ]
+  },
+  {
+    "name": "Folder Up",
+    "shortname": "file-explorer-folder-up",
+    "url": "https://lucide.dev/icons/folder-up",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-up.svg"
+    ]
+  },
+  {
+    "name": "Folder User",
+    "shortname": "file-explorer-folder-user",
+    "url": "https://lucide.dev/icons/folder-user",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-user.svg"
+    ]
+  },
+  {
+    "name": "Folder Users",
+    "shortname": "file-explorer-folder-users",
+    "url": "https://lucide.dev/icons/folder-users",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-users.svg"
+    ]
+  },
+  {
+    "name": "Folder X",
+    "shortname": "file-explorer-folder-x",
+    "url": "https://lucide.dev/icons/folder-x",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folder-x.svg"
+    ]
+  },
+  {
     "name": "Folders",
     "shortname": "carbon-folders",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -9357,6 +10587,16 @@
     "source": "carbon",
     "files": [
       "carbon/folders.svg"
+    ]
+  },
+  {
+    "name": "Folders",
+    "shortname": "file-explorer-folders",
+    "url": "https://lucide.dev/icons/folders",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/folders.svg"
     ]
   },
   {
@@ -10077,6 +11317,36 @@
     "source": "carbon",
     "files": [
       "carbon/harbor.svg"
+    ]
+  },
+  {
+    "name": "Hard Drive",
+    "shortname": "file-explorer-hard-drive",
+    "url": "https://lucide.dev/icons/hard-drive",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/hard-drive.svg"
+    ]
+  },
+  {
+    "name": "Hard Drive Download",
+    "shortname": "file-explorer-hard-drive-download",
+    "url": "https://lucide.dev/icons/hard-drive-download",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/hard-drive-download.svg"
+    ]
+  },
+  {
+    "name": "Hard Drive Upload",
+    "shortname": "file-explorer-hard-drive-upload",
+    "url": "https://lucide.dev/icons/hard-drive-upload",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/hard-drive-upload.svg"
     ]
   },
   {
@@ -12600,6 +13870,16 @@
     ]
   },
   {
+    "name": "Import",
+    "shortname": "file-explorer-import",
+    "url": "https://lucide.dev/icons/import",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/import.svg"
+    ]
+  },
+  {
     "name": "Import Export",
     "shortname": "carbon-import-export",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -12657,6 +13937,16 @@
     "source": "carbon",
     "files": [
       "carbon/in-progress-warning.svg"
+    ]
+  },
+  {
+    "name": "Inbox",
+    "shortname": "file-explorer-inbox",
+    "url": "https://lucide.dev/icons/inbox",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/inbox.svg"
     ]
   },
   {
@@ -13340,6 +14630,16 @@
     ]
   },
   {
+    "name": "Key",
+    "shortname": "file-explorer-key",
+    "url": "https://lucide.dev/icons/key",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/key.svg"
+    ]
+  },
+  {
     "name": "KEY",
     "shortname": "carbon-key",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -13500,6 +14800,16 @@
     ]
   },
   {
+    "name": "Laptop",
+    "shortname": "file-explorer-laptop",
+    "url": "https://lucide.dev/icons/laptop",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/laptop.svg"
+    ]
+  },
+  {
     "name": "Lasso",
     "shortname": "carbon-lasso",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -13547,6 +14857,26 @@
     "source": "carbon",
     "files": [
       "carbon/layers-external.svg"
+    ]
+  },
+  {
+    "name": "Layout Grid",
+    "shortname": "file-explorer-layout-grid",
+    "url": "https://lucide.dev/icons/layout-grid",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/layout-grid.svg"
+    ]
+  },
+  {
+    "name": "Layout List",
+    "shortname": "file-explorer-layout-list",
+    "url": "https://lucide.dev/icons/layout-list",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/layout-list.svg"
     ]
   },
   {
@@ -13960,6 +15290,16 @@
     ]
   },
   {
+    "name": "Link",
+    "shortname": "file-explorer-link",
+    "url": "https://lucide.dev/icons/link",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/link.svg"
+    ]
+  },
+  {
     "name": "Linux",
     "shortname": "carbon-linux",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -13997,6 +15337,16 @@
     "source": "carbon",
     "files": [
       "carbon/list.svg"
+    ]
+  },
+  {
+    "name": "List",
+    "shortname": "file-explorer-list",
+    "url": "https://lucide.dev/icons/list",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/list.svg"
     ]
   },
   {
@@ -14347,6 +15697,16 @@
     "source": "carbon",
     "files": [
       "carbon/location-switch.svg"
+    ]
+  },
+  {
+    "name": "Lock",
+    "shortname": "file-explorer-lock",
+    "url": "https://lucide.dev/icons/lock",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/lock.svg"
     ]
   },
   {
@@ -14957,6 +16317,16 @@
     "source": "carbon",
     "files": [
       "carbon/magic-wand-filled.svg"
+    ]
+  },
+  {
+    "name": "Mail",
+    "shortname": "file-explorer-mail",
+    "url": "https://lucide.dev/icons/mail",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/mail.svg"
     ]
   },
   {
@@ -15687,6 +17057,16 @@
     "source": "carbon",
     "files": [
       "carbon/money.svg"
+    ]
+  },
+  {
+    "name": "Monitor",
+    "shortname": "file-explorer-monitor",
+    "url": "https://lucide.dev/icons/monitor",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/monitor.svg"
     ]
   },
   {
@@ -16897,6 +18277,16 @@
     "source": "carbon",
     "files": [
       "carbon/package.svg"
+    ]
+  },
+  {
+    "name": "Package",
+    "shortname": "file-explorer-package",
+    "url": "https://lucide.dev/icons/package",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/package.svg"
     ]
   },
   {
@@ -18270,6 +19660,16 @@
     ]
   },
   {
+    "name": "Printer",
+    "shortname": "file-explorer-printer",
+    "url": "https://lucide.dev/icons/printer",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/printer.svg"
+    ]
+  },
+  {
     "name": "Priority High",
     "shortname": "carbon-priority-high",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -18897,6 +20297,16 @@
     "source": "carbon",
     "files": [
       "carbon/reflect-vertical.svg"
+    ]
+  },
+  {
+    "name": "Refresh Cw",
+    "shortname": "file-explorer-refresh-cw",
+    "url": "https://lucide.dev/icons/refresh-cw",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/refresh-cw.svg"
     ]
   },
   {
@@ -19790,6 +21200,16 @@
     ]
   },
   {
+    "name": "Save",
+    "shortname": "file-explorer-save",
+    "url": "https://lucide.dev/icons/save",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/save.svg"
+    ]
+  },
+  {
     "name": "Save Model",
     "shortname": "carbon-save-model",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -19870,6 +21290,16 @@
     ]
   },
   {
+    "name": "Scan Line",
+    "shortname": "file-explorer-scan-line",
+    "url": "https://lucide.dev/icons/scan-line",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/scan-line.svg"
+    ]
+  },
+  {
     "name": "Scatter Matrix",
     "shortname": "carbon-scatter-matrix",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -19907,6 +21337,16 @@
     "source": "carbon",
     "files": [
       "carbon/scis-transparent-supply.svg"
+    ]
+  },
+  {
+    "name": "Scissors",
+    "shortname": "file-explorer-scissors",
+    "url": "https://lucide.dev/icons/scissors",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/scissors.svg"
     ]
   },
   {
@@ -20007,6 +21447,16 @@
     "source": "carbon",
     "files": [
       "carbon/search.svg"
+    ]
+  },
+  {
+    "name": "Search",
+    "shortname": "file-explorer-search",
+    "url": "https://lucide.dev/icons/search",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/search.svg"
     ]
   },
   {
@@ -20180,6 +21630,16 @@
     ]
   },
   {
+    "name": "Server",
+    "shortname": "file-explorer-server",
+    "url": "https://lucide.dev/icons/server",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/server.svg"
+    ]
+  },
+  {
     "name": "Server Dns",
     "shortname": "carbon-server-dns",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -20277,6 +21737,16 @@
     "source": "carbon",
     "files": [
       "carbon/settings.svg"
+    ]
+  },
+  {
+    "name": "Settings",
+    "shortname": "file-explorer-settings",
+    "url": "https://lucide.dev/icons/settings",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/settings.svg"
     ]
   },
   {
@@ -20407,6 +21877,16 @@
     "source": "carbon",
     "files": [
       "carbon/share.svg"
+    ]
+  },
+  {
+    "name": "Share 2",
+    "shortname": "file-explorer-share-2",
+    "url": "https://lucide.dev/icons/share-2",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/share-2.svg"
     ]
   },
   {
@@ -21280,6 +22760,16 @@
     ]
   },
   {
+    "name": "Star",
+    "shortname": "file-explorer-star",
+    "url": "https://lucide.dev/icons/star",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/star.svg"
+    ]
+  },
+  {
     "name": "Star Filled",
     "shortname": "carbon-star-filled",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -21977,6 +23467,16 @@
     "source": "carbon",
     "files": [
       "carbon/tag.svg"
+    ]
+  },
+  {
+    "name": "Tag",
+    "shortname": "file-explorer-tag",
+    "url": "https://lucide.dev/icons/tag",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/tag.svg"
     ]
   },
   {
@@ -23500,6 +25000,16 @@
     ]
   },
   {
+    "name": "Trash",
+    "shortname": "file-explorer-trash",
+    "url": "https://lucide.dev/icons/trash",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/trash.svg"
+    ]
+  },
+  {
     "name": "Trash Can",
     "shortname": "carbon-trash-can",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -23507,6 +25017,16 @@
     "source": "carbon",
     "files": [
       "carbon/trash-can.svg"
+    ]
+  },
+  {
+    "name": "Trash Off",
+    "shortname": "file-explorer-trash-off",
+    "url": "https://lucide.dev/icons/trash-off",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/trash-off.svg"
     ]
   },
   {
@@ -23990,6 +25510,16 @@
     ]
   },
   {
+    "name": "Upload",
+    "shortname": "file-explorer-upload",
+    "url": "https://lucide.dev/icons/upload",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/upload.svg"
+    ]
+  },
+  {
     "name": "Upstream",
     "shortname": "carbon-upstream",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -24017,6 +25547,16 @@
     "source": "carbon",
     "files": [
       "carbon/usage-included-use-case.svg"
+    ]
+  },
+  {
+    "name": "Usb",
+    "shortname": "file-explorer-usb",
+    "url": "https://lucide.dev/icons/usb",
+    "collection": "simple",
+    "source": "file-explorer",
+    "files": [
+      "file-explorer/usb.svg"
     ]
   },
   {
