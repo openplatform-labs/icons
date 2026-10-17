@@ -790,6 +790,16 @@
     ]
   },
   {
+    "name": "App",
+    "shortname": "core-16-app",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/app.svg"
+    ]
+  },
+  {
     "name": "App Connectivity",
     "shortname": "carbon-app-connectivity",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -1160,6 +1170,16 @@
     ]
   },
   {
+    "name": "Arrow Left",
+    "shortname": "core-16-arrow-left",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/arrow-left.svg"
+    ]
+  },
+  {
     "name": "Arrow Right",
     "shortname": "carbon-arrow-right",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -1167,6 +1187,16 @@
     "source": "carbon",
     "files": [
       "carbon/arrow-right.svg"
+    ]
+  },
+  {
+    "name": "Arrow Right",
+    "shortname": "core-16-arrow-right",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/arrow-right.svg"
     ]
   },
   {
@@ -1187,6 +1217,16 @@
     "source": "carbon",
     "files": [
       "carbon/arrow-up.svg"
+    ]
+  },
+  {
+    "name": "Arrow Up",
+    "shortname": "core-16-arrow-up",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/arrow-up.svg"
     ]
   },
   {
@@ -1347,6 +1387,16 @@
     "source": "carbon",
     "files": [
       "carbon/assignment-action-usage.svg"
+    ]
+  },
+  {
+    "name": "Assistant",
+    "shortname": "core-16-assistant",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/assistant.svg"
     ]
   },
   {
@@ -1690,6 +1740,16 @@
     ]
   },
   {
+    "name": "Beaker",
+    "shortname": "core-16-beaker",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/beaker.svg"
+    ]
+  },
+  {
     "name": "Bee",
     "shortname": "carbon-bee",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -1727,6 +1787,16 @@
     "source": "carbon",
     "files": [
       "carbon/bicycle.svg"
+    ]
+  },
+  {
+    "name": "Binary",
+    "shortname": "core-16-binary",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/binary.svg"
     ]
   },
   {
@@ -1837,6 +1907,16 @@
     "source": "carbon",
     "files": [
       "carbon/book.svg"
+    ]
+  },
+  {
+    "name": "Book",
+    "shortname": "core-16-book",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/book.svg"
     ]
   },
   {
@@ -2290,6 +2370,26 @@
     ]
   },
   {
+    "name": "Brackets Curly",
+    "shortname": "core-16-brackets-curly",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/brackets-curly.svg"
+    ]
+  },
+  {
+    "name": "Brackets Square",
+    "shortname": "core-16-brackets-square",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/brackets-square.svg"
+    ]
+  },
+  {
     "name": "Brainstorm",
     "shortname": "carbon-brainstorm",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -2630,6 +2730,16 @@
     ]
   },
   {
+    "name": "Calendar",
+    "shortname": "core-16-calendar",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/calendar.svg"
+    ]
+  },
+  {
     "name": "Calendar Add",
     "shortname": "carbon-calendar-add",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -2647,6 +2757,16 @@
     "source": "carbon",
     "files": [
       "carbon/calendar-add-alt.svg"
+    ]
+  },
+  {
+    "name": "Calendar Clock",
+    "shortname": "core-16-calendar-clock",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/calendar-clock.svg"
     ]
   },
   {
@@ -2950,6 +3070,46 @@
     ]
   },
   {
+    "name": "Catalog",
+    "shortname": "core-16-catalog",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/catalog.svg"
+    ]
+  },
+  {
+    "name": "Catalog Gear",
+    "shortname": "core-16-catalog-gear",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/catalog-gear.svg"
+    ]
+  },
+  {
+    "name": "Catalog Home",
+    "shortname": "core-16-catalog-home",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/catalog-home.svg"
+    ]
+  },
+  {
+    "name": "Catalog Off",
+    "shortname": "core-16-catalog-off",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/catalog-off.svg"
+    ]
+  },
+  {
     "name": "Catalog Publish",
     "shortname": "carbon-catalog-publish",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -2957,6 +3117,26 @@
     "source": "carbon",
     "files": [
       "carbon/catalog-publish.svg"
+    ]
+  },
+  {
+    "name": "Catalog Shared",
+    "shortname": "core-16-catalog-shared",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/catalog-shared.svg"
+    ]
+  },
+  {
+    "name": "Catalog User Home",
+    "shortname": "core-16-catalog-user-home",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/catalog-user-home.svg"
     ]
   },
   {
@@ -3057,6 +3237,16 @@
     "source": "carbon",
     "files": [
       "carbon/cell-tower.svg"
+    ]
+  },
+  {
+    "name": "Cells Square",
+    "shortname": "core-16-cells-square",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/cells-square.svg"
     ]
   },
   {
@@ -3540,6 +3730,16 @@
     ]
   },
   {
+    "name": "Chart Line",
+    "shortname": "core-16-chart-line",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/chart-line.svg"
+    ]
+  },
+  {
     "name": "Chart Line Data",
     "shortname": "carbon-chart-line-data",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -3930,6 +4130,36 @@
     ]
   },
   {
+    "name": "Check",
+    "shortname": "core-16-check",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/check.svg"
+    ]
+  },
+  {
+    "name": "Check Circle",
+    "shortname": "core-16-check-circle",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/check-circle.svg"
+    ]
+  },
+  {
+    "name": "Check Circle Fill",
+    "shortname": "core-16-check-circle-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/check-circle-fill.svg"
+    ]
+  },
+  {
     "name": "Checkbox",
     "shortname": "carbon-checkbox",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -3977,6 +4207,16 @@
     "source": "carbon",
     "files": [
       "carbon/checkbox-indeterminate-filled.svg"
+    ]
+  },
+  {
+    "name": "Checklist",
+    "shortname": "core-16-checklist",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/checklist.svg"
     ]
   },
   {
@@ -4080,6 +4320,16 @@
     ]
   },
   {
+    "name": "Chevron Down",
+    "shortname": "core-16-chevron-down",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/chevron-down.svg"
+    ]
+  },
+  {
     "name": "Chevron Down Outline",
     "shortname": "carbon-chevron-down-outline",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4100,6 +4350,16 @@
     ]
   },
   {
+    "name": "Chevron Left",
+    "shortname": "core-16-chevron-left",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/chevron-left.svg"
+    ]
+  },
+  {
     "name": "Chevron Mini",
     "shortname": "carbon-chevron-mini",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4117,6 +4377,16 @@
     "source": "carbon",
     "files": [
       "carbon/chevron-right.svg"
+    ]
+  },
+  {
+    "name": "Chevron Right",
+    "shortname": "core-16-chevron-right",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/chevron-right.svg"
     ]
   },
   {
@@ -4157,6 +4427,16 @@
     "source": "carbon",
     "files": [
       "carbon/chevron-up.svg"
+    ]
+  },
+  {
+    "name": "Chevron Up",
+    "shortname": "core-16-chevron-up",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/chevron-up.svg"
     ]
   },
   {
@@ -4580,6 +4860,16 @@
     ]
   },
   {
+    "name": "Clock",
+    "shortname": "core-16-clock",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/clock.svg"
+    ]
+  },
+  {
     "name": "Close",
     "shortname": "carbon-close",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4587,6 +4877,16 @@
     "source": "carbon",
     "files": [
       "carbon/close.svg"
+    ]
+  },
+  {
+    "name": "Close",
+    "shortname": "core-16-close",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/close.svg"
     ]
   },
   {
@@ -4617,6 +4917,16 @@
     "source": "carbon",
     "files": [
       "carbon/close-outline.svg"
+    ]
+  },
+  {
+    "name": "Close Small",
+    "shortname": "core-16-close-small",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/close-small.svg"
     ]
   },
   {
@@ -4667,6 +4977,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/cloud.svg"
+    ]
+  },
+  {
+    "name": "Cloud",
+    "shortname": "core-16-cloud",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/cloud.svg"
     ]
   },
   {
@@ -4760,6 +5080,16 @@
     ]
   },
   {
+    "name": "Cloud Database",
+    "shortname": "core-16-cloud-database",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/cloud-database.svg"
+    ]
+  },
+  {
     "name": "Cloud Download",
     "shortname": "carbon-cloud-download",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4810,6 +5140,16 @@
     ]
   },
   {
+    "name": "Cloud Key",
+    "shortname": "core-16-cloud-key",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/cloud-key.svg"
+    ]
+  },
+  {
     "name": "Cloud Logging",
     "shortname": "carbon-cloud-logging",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -4817,6 +5157,16 @@
     "source": "carbon",
     "files": [
       "carbon/cloud-logging.svg"
+    ]
+  },
+  {
+    "name": "Cloud Model",
+    "shortname": "core-16-cloud-model",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/cloud-model.svg"
     ]
   },
   {
@@ -5220,6 +5570,16 @@
     ]
   },
   {
+    "name": "Compass",
+    "shortname": "core-16-compass",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/compass.svg"
+    ]
+  },
+  {
     "name": "Concept",
     "shortname": "carbon-concept",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -5257,6 +5617,16 @@
     "source": "carbon",
     "files": [
       "carbon/connect.svg"
+    ]
+  },
+  {
+    "name": "Connect",
+    "shortname": "core-16-connect",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/connect.svg"
     ]
   },
   {
@@ -5617,6 +5987,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/copy.svg"
+    ]
+  },
+  {
+    "name": "Copy",
+    "shortname": "core-16-copy",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/copy.svg"
     ]
   },
   {
@@ -5990,6 +6370,16 @@
     ]
   },
   {
+    "name": "Cursor",
+    "shortname": "core-16-cursor",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/cursor.svg"
+    ]
+  },
+  {
     "name": "Cursor 1",
     "shortname": "carbon-cursor-1",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -6027,6 +6417,16 @@
     "source": "carbon",
     "files": [
       "carbon/curved-line-solid.svg"
+    ]
+  },
+  {
+    "name": "Custom App",
+    "shortname": "core-16-custom-app",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/custom-app.svg"
     ]
   },
   {
@@ -6090,6 +6490,26 @@
     ]
   },
   {
+    "name": "Danger",
+    "shortname": "core-16-danger",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/danger.svg"
+    ]
+  },
+  {
+    "name": "Danger Fill",
+    "shortname": "core-16-danger-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/danger-fill.svg"
+    ]
+  },
+  {
     "name": "Dashboard",
     "shortname": "carbon-dashboard",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -6100,6 +6520,16 @@
     ]
   },
   {
+    "name": "Dashboard",
+    "shortname": "core-16-dashboard",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/dashboard.svg"
+    ]
+  },
+  {
     "name": "Dashboard Reference",
     "shortname": "carbon-dashboard-reference",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -6107,6 +6537,16 @@
     "source": "carbon",
     "files": [
       "carbon/dashboard-reference.svg"
+    ]
+  },
+  {
+    "name": "Data",
+    "shortname": "core-16-data",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/data.svg"
     ]
   },
   {
@@ -6590,6 +7030,16 @@
     ]
   },
   {
+    "name": "Database",
+    "shortname": "core-16-database",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/database.svg"
+    ]
+  },
+  {
     "name": "Database Backups",
     "shortname": "carbon-database-backups",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -6757,6 +7207,16 @@
     "source": "carbon",
     "files": [
       "carbon/debug.svg"
+    ]
+  },
+  {
+    "name": "Decimal",
+    "shortname": "core-16-decimal",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/decimal.svg"
     ]
   },
   {
@@ -7940,6 +8400,16 @@
     ]
   },
   {
+    "name": "Domains",
+    "shortname": "core-16-domains",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/domains.svg"
+    ]
+  },
+  {
     "name": "Dot Mark",
     "shortname": "carbon-dot-mark",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -8027,6 +8497,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/download.svg"
+    ]
+  },
+  {
+    "name": "Download",
+    "shortname": "core-16-download",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/download.svg"
     ]
   },
   {
@@ -8910,6 +9390,16 @@
     ]
   },
   {
+    "name": "Face Frown",
+    "shortname": "core-16-face-frown",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/face-frown.svg"
+    ]
+  },
+  {
     "name": "Face Mask",
     "shortname": "carbon-face-mask",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -8927,6 +9417,16 @@
     "source": "carbon",
     "files": [
       "carbon/face-neutral.svg"
+    ]
+  },
+  {
+    "name": "Face Neutral",
+    "shortname": "core-16-face-neutral",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/face-neutral.svg"
     ]
   },
   {
@@ -8977,6 +9477,16 @@
     "source": "carbon",
     "files": [
       "carbon/face-satisfied-filled.svg"
+    ]
+  },
+  {
+    "name": "Face Smile",
+    "shortname": "core-16-face-smile",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/face-smile.svg"
     ]
   },
   {
@@ -9160,6 +9670,16 @@
     ]
   },
   {
+    "name": "File",
+    "shortname": "core-16-file",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/file.svg"
+    ]
+  },
+  {
     "name": "File Archive",
     "shortname": "file-explorer-file-archive",
     "url": "https://lucide.dev/icons/file-archive",
@@ -9330,6 +9850,16 @@
     ]
   },
   {
+    "name": "File Cube",
+    "shortname": "core-16-file-cube",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/file-cube.svg"
+    ]
+  },
+  {
     "name": "File Diff",
     "shortname": "carbon-file-diff",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -9357,6 +9887,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/file-digit.svg"
+    ]
+  },
+  {
+    "name": "File Document",
+    "shortname": "core-16-file-document",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/file-document.svg"
     ]
   },
   {
@@ -9757,6 +10297,16 @@
     "source": "carbon",
     "files": [
       "carbon/filter.svg"
+    ]
+  },
+  {
+    "name": "Filter",
+    "shortname": "core-16-filter",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/filter.svg"
     ]
   },
   {
@@ -10170,6 +10720,16 @@
     ]
   },
   {
+    "name": "Folder",
+    "shortname": "core-16-folder",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/folder.svg"
+    ]
+  },
+  {
     "name": "Folder Add",
     "shortname": "carbon-folder-add",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -10200,6 +10760,16 @@
     ]
   },
   {
+    "name": "Folder Branch",
+    "shortname": "core-16-folder-branch",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/folder-branch.svg"
+    ]
+  },
+  {
     "name": "Folder Check",
     "shortname": "file-explorer-folder-check",
     "url": "https://lucide.dev/icons/folder-check",
@@ -10227,6 +10797,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/folder-closed.svg"
+    ]
+  },
+  {
+    "name": "Folder Cloud",
+    "shortname": "core-16-folder-cloud",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/folder-cloud.svg"
     ]
   },
   {
@@ -10407,6 +10987,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/folder-open.svg"
+    ]
+  },
+  {
+    "name": "Folder Open Cube",
+    "shortname": "core-16-folder-open-cube",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/folder-open-cube.svg"
     ]
   },
   {
@@ -10780,6 +11370,16 @@
     ]
   },
   {
+    "name": "Function",
+    "shortname": "core-16-function",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/function.svg"
+    ]
+  },
+  {
     "name": "Function 2",
     "shortname": "carbon-function-2",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -11010,6 +11610,16 @@
     ]
   },
   {
+    "name": "Gear",
+    "shortname": "core-16-gear",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/gear.svg"
+    ]
+  },
+  {
     "name": "Gears",
     "shortname": "carbon-gears",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -11070,6 +11680,16 @@
     ]
   },
   {
+    "name": "Genie Code",
+    "shortname": "core-16-genie-code",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/genie-code.svg"
+    ]
+  },
+  {
     "name": "GIF",
     "shortname": "carbon-gif",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -11087,6 +11707,16 @@
     "source": "carbon",
     "files": [
       "carbon/gift.svg"
+    ]
+  },
+  {
+    "name": "Gift",
+    "shortname": "core-16-gift",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/gift.svg"
     ]
   },
   {
@@ -11127,6 +11757,16 @@
     "source": "carbon",
     "files": [
       "carbon/globe.svg"
+    ]
+  },
+  {
+    "name": "Globe",
+    "shortname": "core-16-globe",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/globe.svg"
     ]
   },
   {
@@ -11177,6 +11817,26 @@
     "source": "carbon",
     "files": [
       "carbon/grid.svg"
+    ]
+  },
+  {
+    "name": "Grid",
+    "shortname": "core-16-grid",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/grid.svg"
+    ]
+  },
+  {
+    "name": "Grid Dash",
+    "shortname": "core-16-grid-dash",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/grid-dash.svg"
     ]
   },
   {
@@ -11610,6 +12270,16 @@
     ]
   },
   {
+    "name": "History",
+    "shortname": "core-16-history",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/history.svg"
+    ]
+  },
+  {
     "name": "Home",
     "shortname": "carbon-home",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -11617,6 +12287,16 @@
     "source": "carbon",
     "files": [
       "carbon/home.svg"
+    ]
+  },
+  {
+    "name": "Home",
+    "shortname": "core-16-home",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/home.svg"
     ]
   },
   {
@@ -13800,6 +14480,16 @@
     ]
   },
   {
+    "name": "Image",
+    "shortname": "core-16-image",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/image.svg"
+    ]
+  },
+  {
     "name": "Image Copy",
     "shortname": "carbon-image-copy",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -14027,6 +14717,36 @@
     "source": "carbon",
     "files": [
       "carbon/infinity-symbol.svg"
+    ]
+  },
+  {
+    "name": "Info Book",
+    "shortname": "core-16-info-book",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/info-book.svg"
+    ]
+  },
+  {
+    "name": "Info Fill",
+    "shortname": "core-16-info-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/info-fill.svg"
+    ]
+  },
+  {
+    "name": "Info Small",
+    "shortname": "core-16-info-small",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/info-small.svg"
     ]
   },
   {
@@ -14640,6 +15360,16 @@
     ]
   },
   {
+    "name": "Key",
+    "shortname": "core-16-key",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/key.svg"
+    ]
+  },
+  {
     "name": "KEY",
     "shortname": "carbon-key",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -14780,6 +15510,16 @@
     ]
   },
   {
+    "name": "Lakeflow Designer",
+    "shortname": "core-16-lakeflow-designer",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/lakeflow-designer.svg"
+    ]
+  },
+  {
     "name": "Language",
     "shortname": "carbon-language",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -14837,6 +15577,26 @@
     "source": "carbon",
     "files": [
       "carbon/launch.svg"
+    ]
+  },
+  {
+    "name": "Layer",
+    "shortname": "core-16-layer",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/layer.svg"
+    ]
+  },
+  {
+    "name": "Layer Graph",
+    "shortname": "core-16-layer-graph",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/layer-graph.svg"
     ]
   },
   {
@@ -15150,6 +15910,16 @@
     ]
   },
   {
+    "name": "Letters",
+    "shortname": "core-16-letters",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/letters.svg"
+    ]
+  },
+  {
     "name": "License",
     "shortname": "carbon-license",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -15250,6 +16020,16 @@
     ]
   },
   {
+    "name": "Lightbulb",
+    "shortname": "core-16-lightbulb",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/lightbulb.svg"
+    ]
+  },
+  {
     "name": "Lightning",
     "shortname": "carbon-lightning",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -15257,6 +16037,16 @@
     "source": "carbon",
     "files": [
       "carbon/lightning.svg"
+    ]
+  },
+  {
+    "name": "Lightning",
+    "shortname": "core-16-lightning",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/lightning.svg"
     ]
   },
   {
@@ -15297,6 +16087,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/link.svg"
+    ]
+  },
+  {
+    "name": "Link",
+    "shortname": "core-16-link",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/link.svg"
     ]
   },
   {
@@ -15347,6 +16147,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/list.svg"
+    ]
+  },
+  {
+    "name": "List",
+    "shortname": "core-16-list",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/list.svg"
     ]
   },
   {
@@ -15507,6 +16317,16 @@
     "source": "carbon",
     "files": [
       "carbon/load-balancer-vpc.svg"
+    ]
+  },
+  {
+    "name": "Loading",
+    "shortname": "core-16-loading",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/loading.svg"
     ]
   },
   {
@@ -15707,6 +16527,26 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/lock.svg"
+    ]
+  },
+  {
+    "name": "Lock",
+    "shortname": "core-16-lock",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/lock.svg"
+    ]
+  },
+  {
+    "name": "Lock Share",
+    "shortname": "core-16-lock-share",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/lock-share.svg"
     ]
   },
   {
@@ -16330,6 +17170,16 @@
     ]
   },
   {
+    "name": "Mail",
+    "shortname": "core-16-mail",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/mail.svg"
+    ]
+  },
+  {
     "name": "Mail All",
     "shortname": "carbon-mail-all",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -16560,6 +17410,16 @@
     ]
   },
   {
+    "name": "Megaphone",
+    "shortname": "core-16-megaphone",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/megaphone.svg"
+    ]
+  },
+  {
     "name": "Menu",
     "shortname": "carbon-menu",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -16567,6 +17427,16 @@
     "source": "carbon",
     "files": [
       "carbon/menu.svg"
+    ]
+  },
+  {
+    "name": "Menu",
+    "shortname": "core-16-menu",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/menu.svg"
     ]
   },
   {
@@ -16587,6 +17457,16 @@
     "source": "carbon",
     "files": [
       "carbon/merge-node.svg"
+    ]
+  },
+  {
+    "name": "Message",
+    "shortname": "core-16-message",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/message.svg"
     ]
   },
   {
@@ -17030,6 +17910,16 @@
     ]
   },
   {
+    "name": "Models",
+    "shortname": "core-16-models",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/models.svg"
+    ]
+  },
+  {
     "name": "Modified Newest",
     "shortname": "carbon-modified-newest",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -17117,6 +18007,26 @@
     "source": "carbon",
     "files": [
       "carbon/moonset.svg"
+    ]
+  },
+  {
+    "name": "More Horizontal",
+    "shortname": "core-16-more-horizontal",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/more-horizontal.svg"
+    ]
+  },
+  {
+    "name": "More Vertical",
+    "shortname": "core-16-more-vertical",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/more-vertical.svg"
     ]
   },
   {
@@ -17570,6 +18480,16 @@
     ]
   },
   {
+    "name": "New Window",
+    "shortname": "core-16-new-window",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/new-window.svg"
+    ]
+  },
+  {
     "name": "Next Filled",
     "shortname": "carbon-next-filled",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -17680,6 +18600,16 @@
     ]
   },
   {
+    "name": "Notebook",
+    "shortname": "core-16-notebook",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/notebook.svg"
+    ]
+  },
+  {
     "name": "Notebook Reference",
     "shortname": "carbon-notebook-reference",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -17697,6 +18627,16 @@
     "source": "carbon",
     "files": [
       "carbon/notification.svg"
+    ]
+  },
+  {
+    "name": "Notification",
+    "shortname": "core-16-notification",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/notification.svg"
     ]
   },
   {
@@ -17970,6 +18910,16 @@
     ]
   },
   {
+    "name": "Numbers",
+    "shortname": "core-16-numbers",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/numbers.svg"
+    ]
+  },
+  {
     "name": "Object",
     "shortname": "carbon-object",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -18017,6 +18967,16 @@
     "source": "carbon",
     "files": [
       "carbon/observed-lightning.svg"
+    ]
+  },
+  {
+    "name": "Office",
+    "shortname": "core-16-office",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/office.svg"
     ]
   },
   {
@@ -18780,6 +19740,16 @@
     ]
   },
   {
+    "name": "Pencil",
+    "shortname": "core-16-pencil",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/pencil.svg"
+    ]
+  },
+  {
     "name": "Pending",
     "shortname": "carbon-pending",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -18947,6 +19917,16 @@
     "source": "carbon",
     "files": [
       "carbon/phone.svg"
+    ]
+  },
+  {
+    "name": "Phone",
+    "shortname": "core-16-phone",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/phone.svg"
     ]
   },
   {
@@ -19180,6 +20160,26 @@
     ]
   },
   {
+    "name": "Pipeline",
+    "shortname": "core-16-pipeline",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/pipeline.svg"
+    ]
+  },
+  {
+    "name": "Pipeline Code",
+    "shortname": "core-16-pipeline-code",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/pipeline-code.svg"
+    ]
+  },
+  {
     "name": "Pipelines",
     "shortname": "carbon-pipelines",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -19350,6 +20350,16 @@
     ]
   },
   {
+    "name": "Plug",
+    "shortname": "core-16-plug",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/plug.svg"
+    ]
+  },
+  {
     "name": "Plug Filled",
     "shortname": "carbon-plug-filled",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -19357,6 +20367,16 @@
     "source": "carbon",
     "files": [
       "carbon/plug-filled.svg"
+    ]
+  },
+  {
+    "name": "Plus",
+    "shortname": "core-16-plus",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/plus.svg"
     ]
   },
   {
@@ -19930,6 +20950,26 @@
     ]
   },
   {
+    "name": "Query",
+    "shortname": "core-16-query",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/query.svg"
+    ]
+  },
+  {
+    "name": "Query Editor",
+    "shortname": "core-16-query-editor",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/query-editor.svg"
+    ]
+  },
+  {
     "name": "Query Queue",
     "shortname": "carbon-query-queue",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -19947,6 +20987,16 @@
     "source": "carbon",
     "files": [
       "carbon/question-answering.svg"
+    ]
+  },
+  {
+    "name": "Question Mark",
+    "shortname": "core-16-question-mark",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/question-mark.svg"
     ]
   },
   {
@@ -20297,6 +21347,16 @@
     "source": "carbon",
     "files": [
       "carbon/reflect-vertical.svg"
+    ]
+  },
+  {
+    "name": "Refresh",
+    "shortname": "core-16-refresh",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/refresh.svg"
     ]
   },
   {
@@ -20747,6 +21807,16 @@
     "source": "carbon",
     "files": [
       "carbon/rocket.svg"
+    ]
+  },
+  {
+    "name": "Rocket",
+    "shortname": "core-16-rocket",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/rocket.svg"
     ]
   },
   {
@@ -21320,6 +22390,16 @@
     ]
   },
   {
+    "name": "School",
+    "shortname": "core-16-school",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/school.svg"
+    ]
+  },
+  {
     "name": "Scis Control Tower",
     "shortname": "carbon-scis-control-tower",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -21460,6 +22540,16 @@
     ]
   },
   {
+    "name": "Search",
+    "shortname": "core-16-search",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/search.svg"
+    ]
+  },
+  {
     "name": "Search Advanced",
     "shortname": "carbon-search-advanced",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -21467,6 +22557,16 @@
     "source": "carbon",
     "files": [
       "carbon/search-advanced.svg"
+    ]
+  },
+  {
+    "name": "Search Data",
+    "shortname": "core-16-search-data",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/search-data.svg"
     ]
   },
   {
@@ -21547,6 +22647,16 @@
     "source": "carbon",
     "files": [
       "carbon/send.svg"
+    ]
+  },
+  {
+    "name": "Send",
+    "shortname": "core-16-send",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/send.svg"
     ]
   },
   {
@@ -21900,6 +23010,16 @@
     ]
   },
   {
+    "name": "Shield",
+    "shortname": "core-16-shield",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/shield.svg"
+    ]
+  },
+  {
     "name": "Shield Alert",
     "shortname": "carbon-shield-alert",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -22097,6 +23217,26 @@
     "source": "carbon",
     "files": [
       "carbon/side-panel-open-filled.svg"
+    ]
+  },
+  {
+    "name": "Sidebar Collapse",
+    "shortname": "core-16-sidebar-collapse",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/sidebar-collapse.svg"
+    ]
+  },
+  {
+    "name": "Sidebar Expand",
+    "shortname": "core-16-sidebar-expand",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/sidebar-expand.svg"
     ]
   },
   {
@@ -22630,6 +23770,76 @@
     ]
   },
   {
+    "name": "Sparkle",
+    "shortname": "core-16-sparkle",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/sparkle.svg"
+    ]
+  },
+  {
+    "name": "Sparkle Double",
+    "shortname": "core-16-sparkle-double",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/sparkle-double.svg"
+    ]
+  },
+  {
+    "name": "Sparkle Double Fill",
+    "shortname": "core-16-sparkle-double-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/sparkle-double-fill.svg"
+    ]
+  },
+  {
+    "name": "Sparkle Fill",
+    "shortname": "core-16-sparkle-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/sparkle-fill.svg"
+    ]
+  },
+  {
+    "name": "Sparkle Rectangle",
+    "shortname": "core-16-sparkle-rectangle",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/sparkle-rectangle.svg"
+    ]
+  },
+  {
+    "name": "Speech Bubble",
+    "shortname": "core-16-speech-bubble",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/speech-bubble.svg"
+    ]
+  },
+  {
+    "name": "Speech Bubble Star",
+    "shortname": "core-16-speech-bubble-star",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/speech-bubble-star.svg"
+    ]
+  },
+  {
     "name": "Spell Check",
     "shortname": "carbon-spell-check",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -22767,6 +23977,26 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/star.svg"
+    ]
+  },
+  {
+    "name": "Star",
+    "shortname": "core-16-star",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/star.svg"
+    ]
+  },
+  {
+    "name": "Star Fill",
+    "shortname": "core-16-star-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/star-fill.svg"
     ]
   },
   {
@@ -22937,6 +24167,26 @@
     "source": "carbon",
     "files": [
       "carbon/store.svg"
+    ]
+  },
+  {
+    "name": "Stored Procedure",
+    "shortname": "core-16-stored-procedure",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/stored-procedure.svg"
+    ]
+  },
+  {
+    "name": "Storefront",
+    "shortname": "core-16-storefront",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/storefront.svg"
     ]
   },
   {
@@ -23380,6 +24630,16 @@
     ]
   },
   {
+    "name": "Table",
+    "shortname": "core-16-table",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/table.svg"
+    ]
+  },
+  {
     "name": "Table Add",
     "shortname": "carbon-table-add",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -23410,6 +24670,46 @@
     ]
   },
   {
+    "name": "Table Glasses",
+    "shortname": "core-16-table-glasses",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/table-glasses.svg"
+    ]
+  },
+  {
+    "name": "Table Globe",
+    "shortname": "core-16-table-globe",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/table-globe.svg"
+    ]
+  },
+  {
+    "name": "Table Lightning",
+    "shortname": "core-16-table-lightning",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/table-lightning.svg"
+    ]
+  },
+  {
+    "name": "Table Measure",
+    "shortname": "core-16-table-measure",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/table-measure.svg"
+    ]
+  },
+  {
     "name": "Table Of Contents",
     "shortname": "carbon-table-of-contents",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -23437,6 +24737,26 @@
     "source": "carbon",
     "files": [
       "carbon/table-split.svg"
+    ]
+  },
+  {
+    "name": "Table Stream",
+    "shortname": "core-16-table-stream",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/table-stream.svg"
+    ]
+  },
+  {
+    "name": "Table Vector",
+    "shortname": "core-16-table-vector",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/table-vector.svg"
     ]
   },
   {
@@ -23477,6 +24797,16 @@
     "source": "file-explorer",
     "files": [
       "file-explorer/tag.svg"
+    ]
+  },
+  {
+    "name": "Tag",
+    "shortname": "core-16-tag",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/tag.svg"
     ]
   },
   {
@@ -23907,6 +25237,16 @@
     "source": "carbon",
     "files": [
       "carbon/terminal.svg"
+    ]
+  },
+  {
+    "name": "Terminal",
+    "shortname": "core-16-terminal",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/terminal.svg"
     ]
   },
   {
@@ -24360,6 +25700,16 @@
     ]
   },
   {
+    "name": "Thumbs Down",
+    "shortname": "core-16-thumbs-down",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/thumbs-down.svg"
+    ]
+  },
+  {
     "name": "Thumbs Down Filled",
     "shortname": "carbon-thumbs-down-filled",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -24377,6 +25727,16 @@
     "source": "carbon",
     "files": [
       "carbon/thumbs-up.svg"
+    ]
+  },
+  {
+    "name": "Thumbs Up",
+    "shortname": "core-16-thumbs-up",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/thumbs-up.svg"
     ]
   },
   {
@@ -25010,6 +26370,16 @@
     ]
   },
   {
+    "name": "Trash",
+    "shortname": "core-16-trash",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/trash.svg"
+    ]
+  },
+  {
     "name": "Trash Can",
     "shortname": "carbon-trash-can",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -25037,6 +26407,16 @@
     "source": "carbon",
     "files": [
       "carbon/tree.svg"
+    ]
+  },
+  {
+    "name": "Tree",
+    "shortname": "core-16-tree",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/tree.svg"
     ]
   },
   {
@@ -25520,6 +26900,16 @@
     ]
   },
   {
+    "name": "Upload",
+    "shortname": "core-16-upload",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/upload.svg"
+    ]
+  },
+  {
     "name": "Upstream",
     "shortname": "carbon-upstream",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -25597,6 +26987,16 @@
     "source": "carbon",
     "files": [
       "carbon/user.svg"
+    ]
+  },
+  {
+    "name": "User",
+    "shortname": "core-16-user",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/user.svg"
     ]
   },
   {
@@ -25760,6 +27160,16 @@
     ]
   },
   {
+    "name": "User Group",
+    "shortname": "core-16-user-group",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/user-group.svg"
+    ]
+  },
+  {
     "name": "User Identification",
     "shortname": "carbon-user-identification",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -25877,6 +27287,16 @@
     "source": "carbon",
     "files": [
       "carbon/user-simulation.svg"
+    ]
+  },
+  {
+    "name": "User Sparkle",
+    "shortname": "core-16-user-sparkle",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/user-sparkle.svg"
     ]
   },
   {
@@ -26320,6 +27740,26 @@
     ]
   },
   {
+    "name": "Visible",
+    "shortname": "core-16-visible",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/visible.svg"
+    ]
+  },
+  {
+    "name": "Visible Off",
+    "shortname": "core-16-visible-off",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/visible-off.svg"
+    ]
+  },
+  {
     "name": "Visual Inspection",
     "shortname": "carbon-visual-inspection",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -26580,6 +28020,16 @@
     ]
   },
   {
+    "name": "Warning",
+    "shortname": "core-16-warning",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/warning.svg"
+    ]
+  },
+  {
     "name": "Warning Alt",
     "shortname": "carbon-warning-alt",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -26637,6 +28087,16 @@
     "source": "carbon",
     "files": [
       "carbon/warning-diamond-fill.svg"
+    ]
+  },
+  {
+    "name": "Warning Fill",
+    "shortname": "core-16-warning-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/warning-fill.svg"
     ]
   },
   {
@@ -27180,6 +28640,16 @@
     ]
   },
   {
+    "name": "Workflows",
+    "shortname": "core-16-workflows",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/workflows.svg"
+    ]
+  },
+  {
     "name": "Workspace",
     "shortname": "carbon-workspace",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -27197,6 +28667,16 @@
     "source": "carbon",
     "files": [
       "carbon/workspace-import.svg"
+    ]
+  },
+  {
+    "name": "Workspaces",
+    "shortname": "core-16-workspaces",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/workspaces.svg"
     ]
   },
   {
@@ -27240,6 +28720,16 @@
     ]
   },
   {
+    "name": "Wrench",
+    "shortname": "core-16-wrench",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/wrench.svg"
+    ]
+  },
+  {
     "name": "X Axis",
     "shortname": "carbon-x-axis",
     "url": "https://carbondesignsystem.com/elements/icons/library/",
@@ -27247,6 +28737,16 @@
     "source": "carbon",
     "files": [
       "carbon/x-axis.svg"
+    ]
+  },
+  {
+    "name": "X Circle Fill",
+    "shortname": "core-16-x-circle-fill",
+    "url": "https://github.com/openplatform-labs/icons/tree/main/icons/core-16",
+    "collection": "simple",
+    "source": "core-16",
+    "files": [
+      "core-16/x-circle-fill.svg"
     ]
   },
   {
